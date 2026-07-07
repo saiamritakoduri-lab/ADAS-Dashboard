@@ -37,6 +37,10 @@ ev_dash.ioc       # STM32CubeIDE configuration
 Core/             # Main application code
 Drivers/          # STM32 HAL drivers
 
+DEM0-screenshot(678).png
+     screenshot(681).png
+     screenshot 4 dashboard.png
+
 
 
 👩‍💻 Author
